@@ -48,7 +48,7 @@
         },
         {
           "abbreviation" : "UF",
-          "prestige" : "75",
+          "prestige" : "76",
           "hexColor" : "#0000F2",
           "rival" : "UGA",
           "headCoach" : {
@@ -180,7 +180,7 @@
         },
         {
           "abbreviation" : "MSST",
-          "prestige" : "77",
+          "prestige" : "75",
           "hexColor" : "#670600",
           "rival" : "ARK",
           "headCoach" : {
@@ -275,7 +275,7 @@
         },
         {
           "abbreviation" : "MSU",
-          "prestige" : "78",
+          "prestige" : "76",
           "hexColor" : "#004534",
           "rival" : "PSU",
           "headCoach" : {
@@ -502,7 +502,7 @@
         },
         {
           "abbreviation" : "MIA",
-          "prestige" : "80",
+          "prestige" : "81",
           "hexColor" : "#00442B",
           "rival" : "FSU",
           "headCoach" : {
@@ -634,7 +634,7 @@
         },
         {
           "abbreviation" : "NCSU",
-          "prestige" : "81",
+          "prestige" : "80",
           "hexColor" : "#F10000",
           "rival" : "UNC",
           "headCoach" : {
@@ -729,7 +729,7 @@
         },
         {
           "abbreviation" : "TCU",
-          "prestige" : "80",
+          "prestige" : "79",
           "hexColor" : "#6A00B9",
           "rival" : "BAY",
           "headCoach" : {
@@ -773,7 +773,7 @@
         },
         {
           "abbreviation" : "TTU",
-          "prestige" : "77",
+          "prestige" : "76",
           "hexColor" : "#FF0000",
           "rival" : "OKST",
           "headCoach" : {
@@ -817,7 +817,7 @@
         },
         {
           "abbreviation" : "ISU",
-          "prestige" : "79",
+          "prestige" : "75",
           "hexColor" : "#B50038",
           "rival" : "ARMY",
           "headCoach" : {
@@ -861,7 +861,7 @@
         },
         {
           "abbreviation" : "KAN",
-          "prestige" : "65",
+          "prestige" : "80",
           "hexColor" : "#0000FF",
           "rival" : "KSU",
           "headCoach" : {
@@ -978,7 +978,7 @@
         },
         {
           "abbreviation" : "USC",
-          "prestige" : "88",
+          "prestige" : "85",
           "hexColor" : "#760000",
           "rival" : "UCLA",
           "headCoach" : {
@@ -1066,7 +1066,7 @@
         },
         {
           "abbreviation" : "UTAH",
-          "prestige" : "85",
+          "prestige" : "86",
           "hexColor" : "#FF0031",
           "rival" : "ORE",
           "headCoach" : {
@@ -1139,7 +1139,7 @@
       "confTeams" : [
         {
           "abbreviation" : "ND",
-          "prestige" : "89",
+          "prestige" : "87",
           "hexColor" : "#00002D",
           "rival" : "UL",
           "headCoach" : {
@@ -1161,7 +1161,7 @@
         },
         {
           "abbreviation" : "CIN",
-          "prestige" : "76",
+          "prestige" : "75",
           "hexColor" : "#FF0000",
           "rival" : "WVU",
           "headCoach" : {
@@ -1196,7 +1196,7 @@
             "homeState" : "Georgia",
             "ratPot" : "87",
             "ratTalent" : "90",
-            "baselinePrestige" : "75",
+            "baselinePrestige" : "77",
             "name" : "Pat Narduzzi",
             "contractYear" : "2"
           },
@@ -1315,7 +1315,7 @@
         },
         {
           "abbreviation" : "GT",
-          "prestige" : "70",
+          "prestige" : "74",
           "hexColor" : "#9C7127",
           "rival" : "PHO",
           "headCoach" : {
@@ -1476,7 +1476,7 @@
         },
         {
           "abbreviation" : "ULM",
-          "prestige" : "55",
+          "prestige" : "45",
           "hexColor" : "#5E001E",
           "rival" : "ULL",
           "headCoach" : {
@@ -1564,7 +1564,7 @@
         },
         {
           "abbreviation" : "TSU",
-          "prestige" : "45",
+          "prestige" : "55",
           "hexColor" : "#513500",
           "rival" : "USA",
           "headCoach" : {
@@ -2201,7 +2201,7 @@
         },
         {
           "abbreviation" : "TUL",
-          "prestige" : "60",
+          "prestige" : "73",
           "hexColor" : "#00DDFC",
           "rival" : "LIB",
           "headCoach" : {
