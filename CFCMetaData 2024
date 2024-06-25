@@ -217,7 +217,7 @@
             "ratTalent" : "51",
             "baselinePrestige" : "50",
             "name" : "Mark Stoops",
-            "contractYear" : "3"
+            "contractYear" : "1"
           },
           "name" : "Kentucky Wildcats",
           "state" : "Kentucky"
@@ -312,7 +312,7 @@
             "ratTalent" : "80",
             "baselinePrestige" : "70",
             "name" : "Luke Fickell",
-            "contractYear" : "5"
+            "contractYear" : "1"
           },
           "name" : "Wisconsin Badgers",
           "state" : "Wisconsin"
@@ -385,7 +385,7 @@
         },
         {
           "abbreviation" : "MARY",
-          "prestige" : "75",
+          "prestige" : "76",
           "hexColor" : "#FF0000",
           "rival" : "IOWA",
           "headCoach" : {
@@ -400,7 +400,7 @@
             "ratTalent" : "62",
             "baselinePrestige" : "65",
             "name" : "Mike Locksley",
-            "contractYear" : "4"
+            "contractYear" : "1"
           },
           "name" : "Maryland Terraphins",
           "state" : "Maryland"
@@ -422,7 +422,7 @@
             "ratTalent" : "49",
             "baselinePrestige" : "55",
             "name" : "Kirk Ferentz",
-            "contractYear" : "4"
+            "contractYear" : "1"
           },
           "name" : "Iowa Hawkeyes",
           "state" : "Iowa"
@@ -473,7 +473,7 @@
             "ratTalent" : "95",
             "baselinePrestige" : "90",
             "name" : "Dabo Swinney",
-            "contractYear" : "5"
+            "contractYear" : "1"
           },
           "name" : "Clemson Tigers",
           "state" : "South Carolina"
@@ -561,7 +561,7 @@
             "ratTalent" : "73",
             "baselinePrestige" : "70",
             "name" : "Mike Norvell",
-            "contractYear" : "3"
+            "contractYear" : "1"
           },
           "name" : "Florida State Seminoles",
           "state" : "Florida"
@@ -605,7 +605,7 @@
             "ratTalent" : "72",
             "baselinePrestige" : "65",
             "name" : "Bill O' Brien",
-            "contractYear" : "6"
+            "contractYear" : "1"
           },
           "name" : "Boston College Eagles",
           "state" : "Massachusetts"
@@ -649,7 +649,7 @@
             "ratTalent" : "85",
             "baselinePrestige" : "50",
             "name" : "Dave Doeren",
-            "contractYear" : "3"
+            "contractYear" : "1"
           },
           "name" : "NC State Wolfpack",
           "state" : "North Carolina"
@@ -766,7 +766,7 @@
             "ratTalent" : "93",
             "baselinePrestige" : "80",
             "name" : "Dave Aranda",
-            "contractYear" : "4"
+            "contractYear" : "1"
           },
           "name" : "Baylor Bears",
           "state" : "Texas"
@@ -832,7 +832,7 @@
             "ratTalent" : "81",
             "baselinePrestige" : "60",
             "name" : "Matt Campbell",
-            "contractYear" : "5"
+            "contractYear" : "1"
           },
           "name" : "Iowa State Cyclones",
           "state" : "Iowa"
@@ -854,7 +854,7 @@
             "ratTalent" : "68",
             "baselinePrestige" : "60",
             "name" : "Chris Klieman",
-            "contractYear" : "3"
+            "contractYear" : "1"
           },
           "name" : "Kansas State Wildcats",
           "state" : "Kansas"
@@ -898,7 +898,7 @@
             "ratTalent" : "87",
             "baselinePrestige" : "50",
             "name" : "Jeff Monken",
-            "contractYear" : "4"
+            "contractYear" : "1"
           },
           "name" : "Army Black Knights",
           "state" : "New York"
@@ -1125,7 +1125,7 @@
             "ratTalent" : "58",
             "baselinePrestige" : "25",
             "name" : "Brent Brennan",
-            "contractYear" : "5"
+            "contractYear" : "1"
           },
           "name" : "Arizona Wildcats",
           "state" : "Arizona"
@@ -1154,7 +1154,7 @@
             "ratTalent" : "65",
             "baselinePrestige" : "80",
             "name" : "Marcus Freeman",
-            "contractYear" : "4"
+            "contractYear" : "1"
           },
           "name" : "Notre Dame Fightin Irish",
           "state" : "Indiana"
@@ -1198,7 +1198,7 @@
             "ratTalent" : "90",
             "baselinePrestige" : "77",
             "name" : "Pat Narduzzi",
-            "contractYear" : "2"
+            "contractYear" : "1"
           },
           "name" : "Pittburgh Panthers",
           "state" : "Pennsylvania"
@@ -1330,7 +1330,7 @@
             "ratTalent" : "76",
             "baselinePrestige" : "50",
             "name" : "Brent Key",
-            "contractYear" : "5"
+            "contractYear" : "1"
           },
           "name" : "Georgia Tech Yellow Jackets",
           "state" : "Georgia"
@@ -1352,7 +1352,7 @@
             "ratTalent" : "85",
             "baselinePrestige" : "45",
             "name" : "Jim Mora",
-            "contractYear" : "3"
+            "contractYear" : "1"
           },
           "name" : "Connecticut Huskies",
           "state" : "Connecticut"
@@ -1469,7 +1469,7 @@
             "ratTalent" : "66",
             "baselinePrestige" : "70",
             "name" : "Tim Beck",
-            "contractYear" : "3"
+            "contractYear" : "1"
           },
           "name" : "Coastal Carolina Chanticlears",
           "state" : "South Carolina"
@@ -1579,7 +1579,7 @@
             "ratTalent" : "74",
             "baselinePrestige" : "45",
             "name" : "GJ Kinne",
-            "contractYear" : "2"
+            "contractYear" : "1"
           },
           "name" : "Texas State Bobcats",
           "state" : "Texas"
@@ -1608,7 +1608,7 @@
             "ratTalent" : "95",
             "baselinePrestige" : "80",
             "name" : "Spencer Danielson",
-            "contractYear" : "2"
+            "contractYear" : "1"
           },
           "name" : "Boise State Broncos",
           "state" : "Idaho"
